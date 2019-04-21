@@ -6,7 +6,7 @@ import (
 
 type Lexer struct{}
 
-func New(s string) *Lexer {
+func New(input string) *Lexer {
 
 	return nil
 }
